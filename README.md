@@ -2,7 +2,7 @@
 ### by Genc Tasbasi
 
 This is a simple project demonstrating Jetpack compose usage with a ViewModel as a single source of truth.
-Inspired by: https://www.youtube.com/watch?v=mymWGMy9pYI&t=325s
+Inspired by: https://www.youtube.com/watch?v=mymWGMy9pYI
 
 ## Technologies and libraries used:
 - Simple but proper MVVM architecture
